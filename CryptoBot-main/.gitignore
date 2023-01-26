@@ -1,0 +1,5 @@
+#Ignore following files from upload
+**/__pycache__
+**/logfile.log
+**/config.py
+**/Graph.txt
