@@ -37,9 +37,8 @@ account = {
   - calls `CryptoBot.stop()` and sells out of current positions and ends the program
 
 
-### Contributions
+Aspects:
 
-Ernest Duckworth IV (ernman37):
 - Analyzer.py
 - CoinAPI.py
 - CoinData.py
@@ -49,10 +48,6 @@ Ernest Duckworth IV (ernman37):
 - log.py
 - main.py
 - Trader.py
-
-Sam McKay (retrope13):
 - CoinUI.py
 - Grapher.py
-
-Sammy White (SammyWhite000):
 - CoinQueue.py
